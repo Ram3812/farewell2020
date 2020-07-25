@@ -14,6 +14,7 @@ class App extends React.Component {
       <div className='body'>
         <h1>Farewell 2020</h1>
         <p>This is paragraph</p>
+        <p>test para</p>
         <img src={image} alt="image" width="600px" height="400px" />
       </div>
     );
