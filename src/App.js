@@ -17,7 +17,10 @@ class App extends React.Component {
         <div className='container'>
           <div className='content'>
             <center>
-            <a href={url}>We are waiting<br />Join us here!</a>
+              <p>
+                We are waiting<br />
+                <a href={url}>Join us here!</a>
+              </p>
             </center>
           </div>
         </div>

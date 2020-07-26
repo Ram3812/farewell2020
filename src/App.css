@@ -3,14 +3,16 @@
   width: 100%;
 }
 .content {
-  position: relative; 
+  position: relative;
+  color: #00fff2;
+  font-size: 25px;
   padding-top: 6%; 
   padding-bottom: 6%; 
-  padding-left: 0%;
+  padding-right: 1%;
   margin-top: 20%; 
   margin-bottom: 12%; 
   margin-left: 35%;
   margin-right: 35%;
-  background-color: rgba(255, 255, 255, 0.7); 
+  background-color: rgba(255, 255, 255, 0); 
   max-width: 660px;
 }

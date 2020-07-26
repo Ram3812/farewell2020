@@ -9,8 +9,10 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 a {
-  color: black;
-  font-size: 25px;
+  margin: 0%;
+  padding: 0%;
+  color: #00fff2;
+  font-size: 20px;
   font-family: Helvetica, Arial, sans-serif;
   text-decoration: none;
 }
