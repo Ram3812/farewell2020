@@ -1,6 +1,8 @@
 import React from 'react';
 import './App.css';
-import image from './image.jpg';
+import lapimage from './lapimage.jpg';
+
+const url = "https://meet.google.com/cck-zfsk-aou";
 
 class App extends React.Component {
   constructor() {
@@ -11,11 +13,14 @@ class App extends React.Component {
   }
   render() {
     return (
-      <div className='body'>
-        <h1>Farewell 2020</h1>
-        <p>This is paragraph</p>
-        <p>test para</p>
-        <img src={image} alt="image" width="600px" height="400px" />
+      <div>
+        <div className='container'>
+          <div className='content'>
+            <center>
+            <a href={url}>We are waiting<br />Join us here!</a>
+            </center>
+          </div>
+        </div>
       </div>
     );
   }

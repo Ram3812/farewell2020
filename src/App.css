@@ -1,4 +1,16 @@
-.body {
-  /*background: url('./image.jpg') no-repeat; */
-  min-height: 600px;
+.container {
+  position: relative;
+  width: 100%;
+}
+.content {
+  position: relative; 
+  padding-top: 6%; 
+  padding-bottom: 6%; 
+  padding-left: 0%;
+  margin-top: 20%; 
+  margin-bottom: 12%; 
+  margin-left: 35%;
+  margin-right: 35%;
+  background-color: rgba(255, 255, 255, 0.7); 
+  max-width: 660px;
 }
