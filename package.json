@@ -1,7 +1,7 @@
 {
-  "name": "solar-demo",
+  "name": "gha-demo",
   "version": "1.0.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
@@ -15,7 +15,7 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   },
-  "homepage": "https://Ram3812.github.io/solar-demo/",
+  "homepage": "https://Ram3812.github.io/farewell2020/",
   "browserslist": {
     "production": [
       ">0.2%",
